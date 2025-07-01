@@ -5,8 +5,8 @@ namespace Shared.DataTransferObjects
 {
     public class ProductQueryParameters
     {
-        private const int DefaultPageSize = 5;
-        private const int MaxPageSize = 10;
+        private const int DefaultPageSize = 10;
+        private const int MaxPageSize = 20;
 
         private int _pageSize = DefaultPageSize;
         public int? BrandId { get; set; }
