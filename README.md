@@ -7,10 +7,10 @@ This is the backend API for the Boon e-commerce platform. It is built using a cl
 
 This project follows modern .NET best practices and utilizes a robust technology stack:
 
-*   **Framework:** .NET 8 / ASP.NET Core Web API
+*   **Framework:** .NET 9 / ASP.NET Core Web API
 *   **Architecture:** Clean/Onion Architecture (implied by `Core`, `Infrastructure`, `Web` separation)
 *   **Database:** PostgreSQL
-*   **Data Access:** Entity Framework Core 8
+*   **Data Access:** Entity Framework Core 9
 *   **Authentication:** JWT Bearer Tokens via ASP.NET Core Identity
 *   **Caching:** Redis for in-memory caching
 *   **Payments:** Stripe Integration
@@ -40,7 +40,7 @@ Follow these instructions to get the project up and running on your local machin
 
 You will need the following software installed on your machine:
 
-*   [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+*   [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 *   [PostgreSQL](https://www.postgresql.org/download/) with pgAdmin (recommended)
 *   [Redis](https://redis.io/docs/getting-started/installation/) (can be run locally or via Docker)
 *   A code editor like [Visual Studio 2022](https://visualstudio.microsoft.com/) or [VS Code](https://code.visualstudio.com/)
