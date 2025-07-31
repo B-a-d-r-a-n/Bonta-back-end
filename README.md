@@ -1,7 +1,7 @@
 
-# Boon E-Commerce API
+# Bonta E-Commerce API
 
-This is the backend API for the Boon e-commerce platform. It is built using a clean, scalable architecture with .NET and ASP.NET Core, designed for security, performance, and maintainability. The system provides a complete set of features for managing products, users, and payments.
+This is the backend API for the Bonta e-commerce platform. It is built using a clean, scalable architecture with .NET and ASP.NET Core, designed for security, performance, and maintainability. The system provides a complete set of features for managing products, users, and payments.
 
 ## Core Technologies & Architecture
 
