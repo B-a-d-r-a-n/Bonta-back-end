@@ -25,6 +25,7 @@ namespace Services
             var address = mapper.Map<OrderAddress>(request.ShipToAddress);
 
             List<OrderItem> items = [];
+
             var productRepo = _unitOfWork.GetRepository<Product>();
             foreach (var item in basket.Items)
             {

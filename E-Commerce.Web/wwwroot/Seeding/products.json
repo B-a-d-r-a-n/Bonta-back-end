@@ -4,7 +4,7 @@
     "Description": "Industry-leading noise canceling with two processors controlling 8 microphones and Auto NC Optimizer.",
     "Price": 399.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/61ULAZmt9NL.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 1
   },
   {
@@ -12,7 +12,7 @@
     "Description": "Next-gen gaming console with ultra-high-speed SSD and immersive 3D audio.",
     "Price": 499.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/51051FiD9UL._UF1000,1000_QL80_.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 1
   },
   {
@@ -20,7 +20,7 @@
     "Description": "Full-frame mirrorless camera with 33MP sensor and advanced autofocus.",
     "Price": 2499.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/51VIBalukaL._AC_UF894,1000_QL80_.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 1
   },
   {
@@ -28,7 +28,7 @@
     "Description": "Breathtaking 4K Ultra HD picture quality with Google TV and Assistant.",
     "Price": 477.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/61tOjWVRaKL._UF894,1000_QL80_.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 2
   },
   {
@@ -36,7 +36,7 @@
     "Description": "Flagship smartphone with AI-driven camera and foldable screen.",
     "Price": 1199.99,
     "PictureUrl": "https://images-eu.ssl-images-amazon.com/images/I/61uvatjvVYL._AC_UL495_SR435,495_.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 2
   },
   {
@@ -44,7 +44,7 @@
     "Description": "Smartwatch with health tracking and seamless ecosystem integration.",
     "Price": 349.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/61d3qY2J1AL._UF894,1000_QL80_.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 2
   },
   {
@@ -52,7 +52,7 @@
     "Description": "Iconic mouse with Quiet Clicks and 8,000 DPI sensor.",
     "Price": 99.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/61ni3t1ryQL._UF894,1000_QL80_.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 3
   },
   {
@@ -60,7 +60,7 @@
     "Description": "Professional-grade gaming headset with Blue VO!CE mic technology.",
     "Price": 129.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/515NOtUcMlL._UF894,1000_QL80_.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 3
   },
   {
@@ -68,7 +68,7 @@
     "Description": "Full HD webcam with autofocus and stereo audio.",
     "Price": 79.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/61hkpehFWvL._UF894,1000_QL80_.jpg",
-    "TypeId": 1,
+    "CategoryId": 1,
     "BrandId": 3
   },
 
@@ -77,7 +77,7 @@
     "Description": "Tilt-head stand mixer available in over 20 colors.",
     "Price": 449.95,
     "PictureUrl": "https://m.media-amazon.com/images/I/71SbtQM6z-L.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 4
   },
   {
@@ -85,7 +85,7 @@
     "Description": "Attachment for your KitchenAid mixer to chop, slice, and shred.",
     "Price": 199.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/61rJYfXWpKL.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 4
   },
   {
@@ -93,7 +93,7 @@
     "Description": "Electric kettle with temperature control and sleek design.",
     "Price": 129.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/61tL9iFaLOL._UF894,1000_QL80_.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 4
   },
   {
@@ -101,7 +101,7 @@
     "Description": "Air fry with up to 75% less fat than traditional frying.",
     "Price": 89.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71+8uTMDRFL.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 5
   },
   {
@@ -109,7 +109,7 @@
     "Description": "Powerful blender with multiple speed settings and easy cleaning.",
     "Price": 149.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71Ds+fpTvdL.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 5
   },
   {
@@ -117,7 +117,7 @@
     "Description": "12-cup programmable coffee maker with built-in frother.",
     "Price": 129.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/81-vMuZ92ZL.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 5
   },
   {
@@ -125,7 +125,7 @@
     "Description": "Double-wall vacuum insulated stainless steel tumbler.",
     "Price": 38.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/616Qo6c6-4L._UF1000,1000_QL80_.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 11
   },
   {
@@ -133,7 +133,7 @@
     "Description": "Durable soft cooler with cold-holding insulation.",
     "Price": 299.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/61VhNoL0ihL._UF1000,1000_QL80_.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 11
   },
   {
@@ -141,7 +141,7 @@
     "Description": "Heavy-duty waterproof storage box for outdoor adventures.",
     "Price": 199.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/51b+Z1Y2unL._UY1000_.jpg",
-    "TypeId": 2,
+    "CategoryId": 2,
     "BrandId": 11
   },
 
@@ -150,7 +150,7 @@
     "Description": "Original straight fit blue jeans since 1873.",
     "Price": 79.5,
     "PictureUrl": "https://m.media-amazon.com/images/I/31iQARzg65L._SY350_.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 6
   },
   {
@@ -158,7 +158,7 @@
     "Description": "Classic denim jacket with button-front closure.",
     "Price": 89.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/A1Gicq0InGL._AC_UY1000_.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 6
   },
   {
@@ -166,7 +166,7 @@
     "Description": "Soft cotton t-shirt with vintage Levi's logo.",
     "Price": 29.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/51K9KoPWfML._AC_SX425_.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 6
   },
   {
@@ -174,7 +174,7 @@
     "Description": "Lifestyle Air Max with resilient foam and large window.",
     "Price": 160.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/61Puxn5lpCL._AC_SL1500_.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 7
   },
   {
@@ -182,7 +182,7 @@
     "Description": "Lightweight and breathable shorts for running.",
     "Price": 35.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/719Nn4ii6LL.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 7
   },
   {
@@ -190,7 +190,7 @@
     "Description": "Comfortable hoodie with Nike logo and soft fabric.",
     "Price": 55.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/81wavL5y3kL._UY1000_.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 7
   },
   {
@@ -198,7 +198,7 @@
     "Description": "Backpack with FlexVent suspension system for comfort.",
     "Price": 99.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/51Gblm6leXL._UY1000_.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 8
   },
   {
@@ -206,7 +206,7 @@
     "Description": "Lightweight insulated jacket for cold weather.",
     "Price": 199.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/71nvE+lpv+L._AC_UY1000_.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 8
   },
   {
@@ -214,7 +214,7 @@
     "Description": "Durable duffel bag for travel and outdoor use.",
     "Price": 149.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/51A614MXZkL._UY1000_.jpg",
-    "TypeId": 3,
+    "CategoryId": 3,
     "BrandId": 8
   },
 
@@ -223,7 +223,7 @@
     "Description": "Epic science fiction blending adventure and mysticism.",
     "Price": 10.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71oO1E-XPuL._UF1000,1000_QL80_.jpg",
-    "TypeId": 4,
+    "CategoryId": 4,
     "BrandId": 9
   },
   {
@@ -231,7 +231,7 @@
     "Description": "Proven framework for building good habits and breaking bad ones.",
     "Price": 13.79,
     "PictureUrl": "https://m.media-amazon.com/images/I/81ANaVZk5LL.jpg",
-    "TypeId": 4,
+    "CategoryId": 4,
     "BrandId": 9
   },
   {
@@ -239,7 +239,7 @@
     "Description": "Timeless fantasy classic about the One Ring.",
     "Price": 21.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/7125+5E40JL._UF1000,1000_QL80_.jpg",
-    "TypeId": 4,
+    "CategoryId": 4,
     "BrandId": 9
   },
   {
@@ -247,7 +247,7 @@
     "Description": "Inspirational novel about following your dreams.",
     "Price": 16.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71+2-t7M35L.jpg",
-    "TypeId": 4,
+    "CategoryId": 4,
     "BrandId": 9
   },
   {
@@ -255,7 +255,7 @@
     "Description": "Memoir about a woman who leaves her survivalist family to pursue education.",
     "Price": 14.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71-4MkLN5jL.jpg",
-    "TypeId": 4,
+    "CategoryId": 4,
     "BrandId": 9
   },
 
@@ -264,7 +264,7 @@
     "Description": "Durable rubber cover for outdoor courts with deep channels for grip.",
     "Price": 24.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/91oViE8838L.jpg",
-    "TypeId": 5,
+    "CategoryId": 5,
     "BrandId": 10
   },
   {
@@ -272,7 +272,7 @@
     "Description": "Preferred basketball with Evo Microfiber composite cover.",
     "Price": 69.95,
     "PictureUrl": "https://m.media-amazon.com/images/I/91M76Va0YSL.jpg",
-    "TypeId": 5,
+    "CategoryId": 5,
     "BrandId": 10
   },
   {
@@ -280,7 +280,7 @@
     "Description": "Easy-to-set-up tent with WeatherTec system for protection.",
     "Price": 89.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71QW1QdpvkL.jpg",
-    "TypeId": 5,
+    "CategoryId": 5,
     "BrandId": 20
   },
   {
@@ -288,7 +288,7 @@
     "Description": "Track runs and monitor health with wrist heart rate and suggested workouts.",
     "Price": 199.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/518z0My1ZlS.jpg",
-    "TypeId": 5,
+    "CategoryId": 5,
     "BrandId": 13
   },
   {
@@ -296,7 +296,7 @@
     "Description": "High-tech stationary bike with immersive classes and performance tracking.",
     "Price": 2495.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/81wkKk0W-aL._UF350,350_QL80_.jpg",
-    "TypeId": 5,
+    "CategoryId": 5,
     "BrandId": 15
   },
   {
@@ -304,7 +304,7 @@
     "Description": "Smart treadmill with live and on-demand classes and metrics.",
     "Price": 4295.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/51wldgKrkxL._UF1000,1000_QL80_.jpg",
-    "TypeId": 5,
+    "CategoryId": 5,
     "BrandId": 15
   },
 
@@ -313,7 +313,7 @@
     "Description": "Advanced fitness tracker with GPS, heart rate, and sleep tracking.",
     "Price": 179.95,
     "PictureUrl": "https://m.media-amazon.com/images/I/51YjNQZ0RDL.jpg",
-    "TypeId": 6,
+    "CategoryId": 6,
     "BrandId": 13
   },
   {
@@ -321,7 +321,7 @@
     "Description": "Health smartwatch with daily readiness score and built-in GPS.",
     "Price": 229.95,
     "PictureUrl": "https://m.media-amazon.com/images/I/61OEuoqFqYL.jpg",
-    "TypeId": 6,
+    "CategoryId": 6,
     "BrandId": 13
   },
   {
@@ -329,7 +329,7 @@
     "Description": "Slim fitness tracker with heart rate and sleep monitoring.",
     "Price": 99.95,
     "PictureUrl": "https://m.media-amazon.com/images/I/417lU7uNHnL.jpg",
-    "TypeId": 6,
+    "CategoryId": 6,
     "BrandId": 13
   },
 
@@ -338,7 +338,7 @@
     "Description": "100% natural lip balm made with beeswax and vitamin E.",
     "Price": 3.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/81aOihwffWL._UF894,1000_QL80_.jpg",
-    "TypeId": 7,
+    "CategoryId": 7,
     "BrandId": 16
   },
   {
@@ -346,7 +346,7 @@
     "Description": "Gentle cleansing wipes with natural ingredients.",
     "Price": 8.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71Q+4Xt6TZL._UF1000,1000_QL80_.jpg",
-    "TypeId": 7,
+    "CategoryId": 7,
     "BrandId": 16
   },
   {
@@ -354,7 +354,7 @@
     "Description": "Natural serum to improve skin elasticity and firmness.",
     "Price": 29.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/81UssgU3HkL._UF1000,1000_QL80_.jpg",
-    "TypeId": 7,
+    "CategoryId": 7,
     "BrandId": 16
   },
 
@@ -363,7 +363,7 @@
     "Description": "Natural dog food with real chicken and wholesome grains.",
     "Price": 49.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71jQsmvE0pL.jpg",
-    "TypeId": 8,
+    "CategoryId": 8,
     "BrandId": 17
   },
   {
@@ -371,7 +371,7 @@
     "Description": "High-protein grain-free cat food with real meat.",
     "Price": 39.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/71vlvCGmxBL._UF894,1000_QL80_.jpg",
-    "TypeId": 8,
+    "CategoryId": 8,
     "BrandId": 17
   },
   {
@@ -379,7 +379,7 @@
     "Description": "Comfortable and durable bed for dogs and cats.",
     "Price": 59.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/81mv7YJHuPL._UF1000,1000_QL80_.jpg",
-    "TypeId": 8,
+    "CategoryId": 8,
     "BrandId": 17
   },
 
@@ -388,7 +388,7 @@
     "Description": "Iconic ergonomic chair designed for comfort and support.",
     "Price": 1399.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/71VVk7m8aIL.jpg",
-    "TypeId": 9,
+    "CategoryId": 9,
     "BrandId": 18
   },
   {
@@ -396,7 +396,7 @@
     "Description": "Ergonomic chair designed to promote healthy posture.",
     "Price": 1595.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/61vsHNwGGWL.jpg",
-    "TypeId": 9,
+    "CategoryId": 9,
     "BrandId": 18
   },
   {
@@ -404,7 +404,7 @@
     "Description": "Classic mid-century modern office chair with molded plastic seat.",
     "Price": 499.0,
     "PictureUrl": "https://m.media-amazon.com/images/I/3186G3mLP9L._AC_UF894,1000_QL80_.jpg",
-    "TypeId": 9,
+    "CategoryId": 9,
     "BrandId": 18
   },
 
@@ -413,7 +413,7 @@
     "Description": "Classic crayons in 64 vibrant colors for creative fun.",
     "Price": 6.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/717gPBkdUkL.jpg",
-    "TypeId": 10,
+    "CategoryId": 10,
     "BrandId": 19
   },
   {
@@ -421,7 +421,7 @@
     "Description": "Bright, washable markers for kids and artists.",
     "Price": 7.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/81PsWmvLA5L._UF1000,1000_QL80_.jpg",
-    "TypeId": 10,
+    "CategoryId": 10,
     "BrandId": 19
   },
   {
@@ -429,7 +429,7 @@
     "Description": "Set of 24 colored pencils for detailed coloring.",
     "Price": 9.99,
     "PictureUrl": "https://m.media-amazon.com/images/I/613cEBk5fiL.jpg",
-    "TypeId": 10,
+    "CategoryId": 10,
     "BrandId": 19
   }
 ]

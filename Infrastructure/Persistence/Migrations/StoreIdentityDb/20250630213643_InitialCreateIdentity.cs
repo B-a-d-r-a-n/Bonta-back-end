@@ -6,9 +6,9 @@ using static System.Net.WebRequestMethods;
 
 #nullable disable
 
-//Stripe: SecretKey = sk_test_51RRa89PxTFrNmFBpzPfDvDX8m4i7KdjsoNxzK2E62a9cWucdTz2Tk93k7uovgxn0iIs8CVtFj0CWdmFaHQgk5ivg00V5jNQhyr
-//Stripe: EndPointSecret = whsec_3f300c1a977654b4881e951c3d7af0758c8d1ab47e5b686b7565ce5b6c8bffff
-//JWTOptions: SecretKey = UITjyCclF5Rpu / ZctfN0YynnfLdc0gdEQrU9Js6wEJ0 =
+//Stripe: SecretKey = wawa
+//Stripe: EndPointSecret = wawa
+//JWTOptions: SecretKey = wawa
 //JWTOptions:Issuer = https://localhost:7003
 //JWTOptions: DurationInDays = 7
 //JWTOptions: Audience = http://localhost:3000

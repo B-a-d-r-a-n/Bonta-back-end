@@ -29,9 +29,9 @@ namespace Services
             var method = await unitOfWork.GetRepository<DeliveryMethod>().GetAsync(basket.DeliveryMethodId.Value) ??
                 throw new DeliveryMethodNotFoundException(basket.DeliveryMethodId.Value);
 
-            basket.ShippingPrice = method.Cost;
+            basket.ShippingPrice = method.Price;
 
-            var amount = (long)(basket.Items.Sum(item => item.Price * item.Quantity) + method.Cost)*100;
+            var amount = (long)(basket.Items.Sum(item => item.Price * item.Quantity) + method.Price)*100;
 
             //create || update 
             var service = new PaymentIntentService();

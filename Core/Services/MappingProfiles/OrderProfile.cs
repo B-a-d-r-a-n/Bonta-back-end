@@ -23,9 +23,9 @@ namespace Services.MappingProfiles
                 .ForMember(d => d.DeliveryMethod,
                 o => o.MapFrom(s => s.DeliveryMethod.ShortName))
                 .ForMember(d => d.DeliveryCost,
-                o => o.MapFrom(s => s.DeliveryMethod.Cost))
+                o => o.MapFrom(s => s.DeliveryMethod.Price))
                 .ForMember(d => d.Total,
-                o => o.MapFrom(s => s.DeliveryMethod.Cost + s.Subtotal));
+                o => o.MapFrom(s => s.DeliveryMethod.Price + s.Subtotal));
 
             CreateMap<DeliveryMethod, DeliveryMethodResponse>();
 
@@ -36,8 +36,9 @@ namespace Services.MappingProfiles
     {
         public string Resolve(OrderItem source, OrderItemDTO destination, string destMember, ResolutionContext context)
         {
-            return string.IsNullOrWhiteSpace(source.Product.PictureUrl) ? string.Empty 
-                : $"{configuration["BaseUrl"]}{source.Product.PictureUrl}";
+            return source.Product.PictureUrl;
+            //return string.IsNullOrWhiteSpace(source.Product.PictureUrl) ? string.Empty 
+            //    : $"{configuration["BaseUrl"]}{source.Product.PictureUrl}";
         }
     }
 }

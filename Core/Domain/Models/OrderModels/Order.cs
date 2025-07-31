@@ -23,7 +23,7 @@ public class Order : BaseEntity<Guid>
 
     // Id
     public string BuyerEmail { get; set; } = default!;
-    public DateTimeOffset OrderDate { get; set; } = DateTimeOffset.Now;
+    public DateTimeOffset OrderDate { get; set; } = DateTimeOffset.UtcNow;
     public ICollection<OrderItem> Items { get; set; } = [];
     public OrderAddress ShipToAddress { get; set; } = default!;
     public DeliveryMethod DeliveryMethod { get; set; } = default!;
